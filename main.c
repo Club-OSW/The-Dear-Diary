@@ -17,7 +17,7 @@ char **argv;
 
 void signup(void);
 void login(void);
-void readDiary(char username[15]);
+// void readDiary(char username[15]);
 void menu(int argc, char **argv);
 void gotoxy(int x, int y);
 
